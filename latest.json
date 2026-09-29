@@ -1,0 +1,19 @@
+{
+  "schema": "KATZ_MANIFEST_V1",
+  "generatedAt": "2026-09-29T08:25:00+02:00",
+  "appMinBuild": "3.3.0-sync1",
+  "baseRelease": "2026.09.29.v3.2",
+  "latest": "2026.09.29.001-bootstrap",
+  "releases": [
+    {
+      "id": "2026.09.29.001-bootstrap",
+      "sequence": 1,
+      "url": "releases/KATZ_DELTA_2026_09_29_001_BOOTSTRAP.json",
+      "sha256": "4809a42bfe57ba4772ed1b30dfcde5bb037b477f07bf5d1d299b4c6251d12c75",
+      "count": {
+        "upserts": 14,
+        "deletes": 0
+      }
+    }
+  ]
+}
